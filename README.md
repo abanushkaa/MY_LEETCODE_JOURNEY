@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
