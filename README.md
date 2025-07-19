@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
