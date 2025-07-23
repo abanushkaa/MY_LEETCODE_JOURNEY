@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
