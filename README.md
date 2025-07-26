@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
 ## Binary Search
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
