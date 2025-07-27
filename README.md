@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
+| [1070-convert-to-base-2](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1070-convert-to-base-2) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
