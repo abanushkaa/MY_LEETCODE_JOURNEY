@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
 ## Binary Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
 ## String
 |  |
