@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
+| [1306-minimum-absolute-difference](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1306-minimum-absolute-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
+| [1306-minimum-absolute-difference](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1306-minimum-absolute-difference) |
 ## Design
 |  |
 | ------- |
