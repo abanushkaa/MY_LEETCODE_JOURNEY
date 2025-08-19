@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
