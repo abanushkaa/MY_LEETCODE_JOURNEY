@@ -13,7 +13,7 @@ class Solution {
             if(arr[i]-arr[i-1] == minDiff){
                 result.add(Arrays.asList(arr[i-1],arr[i]));
             }
-        }
+        }//
         return result;
     }
 }
