@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0074-search-a-2d-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0503-next-greater-element-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1628-count-submatrices-with-all-ones) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 ## Interactive
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
