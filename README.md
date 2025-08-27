@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0503-next-greater-element-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0937-online-stock-span) |
 ## Queue
