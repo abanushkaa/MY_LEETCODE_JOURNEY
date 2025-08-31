@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0131-palindrome-partitioning](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0812-rotate-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1628-count-submatrices-with-all-ones) |
 ## Linked List
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0937-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
