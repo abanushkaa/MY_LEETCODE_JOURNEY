@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1306-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1628-count-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0131-palindrome-partitioning) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
