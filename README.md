@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0735-asteroid-collision) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
@@ -216,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
