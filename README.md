@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0503-next-greater-element-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 ## String Matching
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1306-minimum-absolute-difference) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
