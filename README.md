@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [1070-convert-to-base-2](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1070-convert-to-base-2) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
