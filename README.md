@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0292-nim-game) |
 | [1070-convert-to-base-2](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1070-convert-to-base-2) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -228,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0234-palindrome-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
