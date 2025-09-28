@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
+| [1018-largest-perimeter-triangle](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0292-nim-game) |
 | [0830-largest-triangle-area](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1018-largest-perimeter-triangle) |
 | [1070-convert-to-base-2](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1070-convert-to-base-2) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1018-largest-perimeter-triangle) |
 | [1917-maximum-average-pass-ratio](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1306-minimum-absolute-difference) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
