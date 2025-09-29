@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1185-find-in-mountain-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1185-find-in-mountain-array) |
 | [1306-minimum-absolute-difference](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1306-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0131-palindrome-partitioning) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1628-count-submatrices-with-all-ones) |
 ## Linked List
