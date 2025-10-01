@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1018-largest-perimeter-triangle) |
 | [1070-convert-to-base-2](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1070-convert-to-base-2) |
+| [1642-water-bottles](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1642-water-bottles) |
 ## Binary Indexed Tree
 |  |
 | ------- |
