@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0780-max-chunks-to-make-sorted) |
+| [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0611-valid-triangle-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1185-find-in-mountain-array) |
@@ -94,17 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -266,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1917-maximum-average-pass-ratio) |
 ## Recursion
 |  |
