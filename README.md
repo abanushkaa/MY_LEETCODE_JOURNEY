@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
