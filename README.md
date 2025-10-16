@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1917-maximum-average-pass-ratio) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3336-water-bottles-ii) |
 ## Greedy
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [1612-avoid-flood-in-the-city](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String Matching
 |  |
