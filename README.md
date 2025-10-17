@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1628-count-submatrices-with-all-ones) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Linked List
 |  |
@@ -326,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
