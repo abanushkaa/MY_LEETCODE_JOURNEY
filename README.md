@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1078-remove-outermost-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Stack
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1073-number-of-enclaves) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
