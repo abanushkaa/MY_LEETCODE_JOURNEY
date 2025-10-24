@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-convert-to-base-2](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1070-convert-to-base-2) |
 | [1642-water-bottles](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3336-water-bottles-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [1612-avoid-flood-in-the-city](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1612-avoid-flood-in-the-city) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String Matching
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0131-palindrome-partitioning) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Geometry
 |  |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
 |  |
 | ------- |
