@@ -1,12 +1,13 @@
-# Write your MySQL query statement below
-
-select s.user_id,
-CAST(ROUND (IF (count(c.action)=0,
- 0,
-SUM(CASE WHEN c.action = 'confirmed' THEN 1 ELSE 0 END) / COUNT(c.action)),2
-)as decimal(4,2)
-) as confirmation_rate 
-from signups s  
-left join confirmations c on 
-s.user_id = c.user_id
-group by s.user_id;
+SELECT s.user_id,
+       CAST(
+         ROUND(
+           IF(COUNT(c.action)=0,
+              0,
+              SUM(c.action = 'confirmed') / COUNT(c.action)
+           ), 2
+         ) AS DECIMAL(4,2)
+       ) AS confirmation_rate
+FROM signups s
+LEFT JOIN confirmations c
+  ON s.user_id = c.user_id
+GROUP BY s.user_id;
