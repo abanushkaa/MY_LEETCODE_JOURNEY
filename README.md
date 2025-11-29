@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1153-product-sales-analysis-i) |
+| [1251-average-selling-price](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
