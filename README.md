@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0407-trapping-rain-water-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0417-pacific-atlantic-water-flow) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [1612-avoid-flood-in-the-city](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1612-avoid-flood-in-the-city) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Combinatorics
