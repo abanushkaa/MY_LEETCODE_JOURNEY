@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1801-average-time-of-process-per-machine) |
