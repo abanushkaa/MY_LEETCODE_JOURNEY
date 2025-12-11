@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
