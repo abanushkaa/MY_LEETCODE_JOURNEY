@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0596-classes-with-at-least-5-students) |
 | [1075-project-employees-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1153-product-sales-analysis-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1153-product-sales-analysis-i) |
