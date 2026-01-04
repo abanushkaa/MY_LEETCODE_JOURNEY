@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1036-rotting-oranges) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0780-max-chunks-to-make-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1306-minimum-absolute-difference) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
