@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0031-next-permutation) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
