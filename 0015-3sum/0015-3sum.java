@@ -11,8 +11,8 @@ class Solution {
             int s= -1*nums[i];
             while(left< right){
 
-                int sum= nums[i]+nums[left]+nums[right];
-                if(sum==0){
+                int sum = nums[i]+nums[left]+nums[right];
+                if(sum == 0){
                     result.add(Arrays.asList(nums[i],nums[left],nums[right]));
                     left++;
                     right--;
