@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0611-valid-triangle-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0704-binary-search) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [2485-find-the-pivot-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2485-find-the-pivot-integer) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
