@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1258-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1415-students-and-examinations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
