@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0292-nim-game) |
 | [0830-largest-triangle-area](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1018-largest-perimeter-triangle) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0204-count-primes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
