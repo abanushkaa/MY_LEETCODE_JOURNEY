@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 select p.product_id,
 IFNULL
 (Round(SUM(p.price*u.units)/SUM(u.units),2) ,0)
