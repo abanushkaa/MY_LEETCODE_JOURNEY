@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1612-avoid-flood-in-the-city) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Combinatorics
