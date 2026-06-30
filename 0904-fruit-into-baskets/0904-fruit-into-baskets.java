@@ -10,16 +10,16 @@ class Solution {
 
         for (int fruit : fruits) {
 
-            // If fruit belongs to one of the two basket types
+        
             if (fruit == lastFruit || fruit == secondLastFruit) {
                 currentWindow++;
             } 
-            // Third fruit type found
+     
             else {
                 currentWindow = lastFruitCount + 1;
             }
 
-            // Update last fruit information
+           
             if (fruit == lastFruit) {
                 lastFruitCount++;
             } else {
