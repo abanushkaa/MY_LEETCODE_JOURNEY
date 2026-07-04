@@ -1,36 +1,24 @@
 class Solution {
     public int totalFruit(int[] fruits) {
 
-        int lastFruit = -1;
-        int secondLastFruit = -1;
-
-        int lastFruitCount = 0;
-        int currentWindow = 0;
-        int maxWindow = 0;
-
-        for (int fruit : fruits) {
-
-        
-            if (fruit == lastFruit || fruit == secondLastFruit) {
-                currentWindow++;
-            } 
-     
-            else {
-                currentWindow = lastFruitCount + 1;
+        int low=0;
+        int ans=0;
+        HashMap<Integer, Integer> freq = new HashMap<>();
+        for(int high=0;high<fruits.length;high++){
+            int right=fruits[high];
+            freq.put(right,freq.getOrDefault(right,0)+1);
+            while(freq.size()>2){
+                int left=fruits[low];
+                freq.put(left,freq.get(left)-1);
+                if(freq.get(left)==0){
+                    freq.remove(left);
+                }
+                low++;
             }
-
-           
-            if (fruit == lastFruit) {
-                lastFruitCount++;
-            } else {
-                lastFruitCount = 1;
-                secondLastFruit = lastFruit;
-                lastFruit = fruit;
-            }
-
-            maxWindow = Math.max(maxWindow, currentWindow);
+            // if(freq.size()==2|| freq.size()<2){
+                ans=Math.max(ans,high-low+1);
+            
         }
-
-        return maxWindow;
+        return ans;
     }
 }
