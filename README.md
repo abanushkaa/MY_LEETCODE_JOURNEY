@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/1612-avoid-flood-in-the-city) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String Matching
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abanushkaa/MY_LEETCODE_JOURNEY/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Combinatorics
